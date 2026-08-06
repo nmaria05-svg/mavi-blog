@@ -1,0 +1,11 @@
+header{
+    background-color: rgb(49, 49, 135);
+    color: white;
+    text-align: center; /*CENTRALIZADO*/
+    padding: 25px; /* Espaço do lado*/
+}
+
+main{
+    background-color: black;
+color:blanchedalmond(148,64,226);
+}
